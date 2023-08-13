@@ -10,5 +10,8 @@ Secondly, install the "tkcalendar" module that provides a calendar widget.
 1. Open your terminal or command prompt.
 2. Run the following command to install the tkcalendar module using pip: pip install tkcalendar
  
-3. There are also other necessary modules that needs to be installed. Those have all been installed inside the requirements.txt
+3. There are also other necessary modules that needs to be installed. Those have all been listed inside the requirements.txt
+
+Run the program by running home.py first!
+
 
